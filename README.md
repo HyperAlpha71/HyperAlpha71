@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm HyperAlpha</h1>
-<h3 align="center">I have been working on Minecraft servers since 2018. I have written several custom plugins in Java and JavaScript for my own game servers. Currently, I am working on web-based applications. I have multiple projects built using the HTML5, CSS3, and JavaScript trio. I am also working with front-end libraries. I'm also taking courses on artificial intelligence, large language models, and machine learning. That's all for now :=)</h3>
+<h3 align="center">I have been working on Minecraft servers since 2018. I have written several custom plugins in Java and JavaScript for my own game servers. Currently, I am working on web-based applications. I have multiple projects built using the HTML5, CSS3, and JavaScript trio. I am also working with front-end libraries. I'm also taking courses on artificial intelligence, large language models, and machine learning. That's all for now :)</h3>
 
 <h3 align="left">Connections:</h3>
 <p align="left">
